@@ -1,3 +1,19 @@
+# APPLICATION IMAGES
+
+## Home Screen
+![Home Screen](assets/1.png)
+
+## Phone Number Validation
+![Phone Number Validation](assets/2.png){ width=300 height=200 }
+
+## Phone Number Validation Success
+![Phone Number Validation Success](assets/3.png)
+
+## Phone Number Validation Failure
+![Phone Number Validation Failure](assets/4.png)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
